@@ -35,6 +35,9 @@ In this sales dashboard, my goal is to reveal the sale performance of the ecomme
 - Export data: Right-click on a chart or table to export the data to a CSV or PDF file.
 
 
+> Rememeber to adjust the source of the data to your path so you can interact with the dashboard accordingly.
+
+
   
 ### Technical Details
 - Excel version: 2010 or later.
